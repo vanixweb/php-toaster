@@ -1,0 +1,23 @@
+{
+    "name": "vanixweb/toaster-php",
+    "description": "A simple toaster for PHP",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vanixweb\\": "src/"
+        }
+    },
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vanixweb/php-toaster"
+        }
+    ],
+    "require": {
+        "vanixweb/toaster-php": "dev-master"
+    }
+}
