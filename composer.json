@@ -1,5 +1,5 @@
 {
-    "name": "vanixweb/toaster-php",
+    "name": "vanixweb/php-toaster",
     "description": "A simple toaster for PHP",
     "type": "library",
     "require": {
