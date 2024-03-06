@@ -10,14 +10,9 @@
             "vanixweb\\": "src/"
         }
     },
-
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/vanixweb/php-toaster"
-        }
-    ],
-    "require": {
-        "vanixweb/toaster-php": "dev-master"
-    }
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
